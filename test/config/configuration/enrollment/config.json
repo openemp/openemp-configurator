@@ -1,0 +1,12 @@
+{
+  "steps": [
+    {
+      "name": "CHOOSE_DEPARTMENT",
+      "fields": ["name", "department_name", "program"]
+    },
+    {
+      "name": "DOCUMENT_VALIDATION",
+      "fields":["id_photo"]
+    }
+  ]
+}
