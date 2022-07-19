@@ -20,7 +20,7 @@
     "glob": "^7.1.6",
     "morgan": "~1.9.1",
     "node-sass-middleware": "0.11.0",
-    "properties-reader": "^2.0.0",
+    "properties-reader": "^2.2.0",
     "test": "^0.6.0"
   },
   "license": "MIT",
