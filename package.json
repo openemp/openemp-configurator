@@ -15,18 +15,18 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "~4.18.2",
     "fs": "0.0.1-security",
     "glob": "^7.1.6",
     "morgan": "~1.9.1",
-    "node-sass-middleware": "0.11.0",
+    "node-sass-middleware": "1.1.0",
     "properties-reader": "^2.0.0",
     "test": "^0.6.0"
   },
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "nyc": "^15.0.1",
     "supertest": "^4.0.2"
   }
